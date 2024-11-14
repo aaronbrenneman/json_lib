@@ -2,6 +2,40 @@
 
 this repository is designed to organize and streamline the use of large language models (llms) for personal and professional optimization, with a focus on persona management, workflow automation, and insights tracking.
 
+llm-optimization/
+│
+├── README.md                     # Overview of repo purpose, key sections, and usage.
+│
+├── personas/                     # Folder for detailed persona profiles.
+│   ├── persona_directory.md      # Central directory with activation phrases, links to profiles.
+│   ├── pip_profile.md            # Pipboy profile.
+│   ├── frankie_profile.md        # Frankie profile.
+│   └── ripley_profile.md         # Ripley profile.
+│
+├── workflows/                    # Automated or manual workflows for optimization.
+│   ├── morning_routine.md        # Document on routines like music, lighting, weather updates.
+│   ├── habit_automation.md       # Ideas and scripts for habit-building automations.
+│   └── project_sync.md           # Workflow for periodic updates, check-ins.
+│
+├── interactions/                 # Organizing responses and insights from interactions.
+│   ├── interaction_logs/         # Logs of significant interactions, organized by date.
+│   ├── insights_summary.md       # Key takeaways, recurring patterns, and persona-related insights.
+│   └── reflections.md            # Personal reflections on LLM interactions and adjustments.
+│
+├── projects/                     # Specific projects benefiting from LLM optimization.
+│   ├── widgelib/
+│   │   ├── README.md
+│   │   └── notes.md
+│   └── other_project/
+│       ├── README.md
+│       └── notes.md
+│
+└── resources/                    # Reference documents, guides, and supplemental files.
+    ├── python_guide.md           # Python tips or guides relevant to optimization.
+    ├── git_workflow.md           # Git practices for repo management.
+    └── optimisation_research.md  # Notes on scientific resources, articles, and concepts.
+
+
 ## purpose
 
 this repository serves as a central hub to:
