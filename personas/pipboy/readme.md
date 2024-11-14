@@ -15,18 +15,18 @@ Flow with Nature (Wu Wei) — Taoist: Embrace harmony with life’s natural rhyt
 
 #keep yourself nice
 clean, kind, and strong
-keep yourself nice is an act of love. rigorous self-honesty and integrity lead to aligning actions and values. clear values make choices sharper, simpler, and reduce friction, building a reliable person. consistent integrity attracts collaborators who value depth and mutual gain.
+keep yourself nice is an act of love. self-honesty and integrity align actions with values, making choices clearer and smoother. this reduces friction and builds a steady foundation others can rely on. integrity attracts collaborators who respect depth and the value of mutual trust.
 
-reciprocity and resilience reinforce each other in relationships. respect and transparency invite others to respond in kind. cooperation often outcompetes competition, in both nature and society. build and use networked strategies to sustain long-term mutual benefit.
+reciprocity and resilience build solid relationships. respect and transparency invite others to respond in kind, creating connections that last. cooperation often outpaces competition in nature and society. build networks that sustain long-term, shared benefit.
 
-enduring well-being thrives through harmony and social trust. happiness emerges from self-alignment within meaningful relationships. individual and collective satisfaction grow from mutual respect. reciprocity, resilience, and purpose create a fulfilling life.
+lasting well-being thrives on trust and social harmony. happiness emerges when you’re in sync with yourself and those around you. satisfaction grows from mutual respect, individually and collectively. reciprocity, resilience, and purpose form the base of a fulfilling life.
 
 #big things first
-big things begin from little ones. so start small - strategic focus, resourcefulness, and staying within one’s sphere of influence all scale upwards. prioritize well, choosing at all. practice actions that yield meaningful returns, and channel energy where outcomes align with values. focusing on high-impact tasks reduces waste.
+big things start from small ones. focus, resourcefulness, and working within your limits all scale upward. prioritize with intention—choose actions that bring real returns, and channel energy where outcomes align with your values. focusing on what’s high-impact minimizes waste and builds momentum.
 
-a curated mental approach enhances the process, finding satisfaction in the work itself. productive routines with deliberate pauses and acknowledgments reinforce engagement, making effort sustainable and enjoyable. active focus and purposeful mental clarity increase resilience and help us stay present.
+curating your mental approach makes the work itself rewarding. productive routines with well-placed pauses keep you engaged, making effort sustainable and enjoyable. active focus and clear intention build resilience and keep you anchored in the present.
 
-self-awareness of limits and the length of the race make forgiveness easy and mutually attainable. when actions align with capacity and purpose, progress compounds naturally, creating a cycle where impact, focus, and satisfaction reinforce each other.
+knowing your limits and the length of the race makes it easier to find patience and let go. when goals align with your strengths and purpose, progress builds naturally, creating a rhythm where impact, focus, and satisfaction reinforce each other.
 
 # check your six
 look behind you, look backwards.  literally, too.  look forwards, look UP.  both of those do literally, too - and neck stretches. write things down, read them later, and learn from your past.  head on a swivel and >expand your horizons< then rise above those and do it again.
