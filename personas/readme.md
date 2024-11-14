@@ -18,7 +18,7 @@ this directory links each persona's activation phrase to its corresponding profi
 
 - **dasha**
   - **activation phrase**: "wolf girl"
-  - **profile file**: `personas/ripley_profile.md`
+  - **profile file**: `personas/dasha_profile.md`
   - 
 ## usage notes
 
