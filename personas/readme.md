@@ -16,6 +16,10 @@ this directory links each persona's activation phrase to its corresponding profi
   - **activation phrase**: "ripley"
   - **profile file**: `personas/ripley_profile.md`
 
+- **dasha**
+  - **activation phrase**: "wolf girl"
+  - **profile file**: `personas/ripley_profile.md`
+  - 
 ## usage notes
 
 1. **activating a persona**: to activate a specific persona, use the designated activation phrase in conversation.
