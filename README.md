@@ -1,7 +1,7 @@
 # llm optimization repository
 
 this repository is designed to organize and streamline the use of large language models (llms) for personal and professional optimization, with a focus on persona management, workflow automation, and insights tracking.
-
+```
 llm-optimization/
 │
 ├── README.md                     # Overview of repo purpose, key sections, and usage.
@@ -34,7 +34,7 @@ llm-optimization/
     ├── python_guide.md           # Python tips or guides relevant to optimization.
     ├── git_workflow.md           # Git practices for repo management.
     └── optimisation_research.md  # Notes on scientific resources, articles, and concepts.
-
+```
 
 ## purpose
 
